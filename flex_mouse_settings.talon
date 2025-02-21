@@ -32,7 +32,7 @@ settings():
     ## ----------- Size setting
 
     # This ajusts the sizing of everything.
-    user.flex_mouse_grid_field_size = "30"
+    user.flex_mouse_grid_field_size = "33"
 
     ## ----------- Overlay transparency settings
 
